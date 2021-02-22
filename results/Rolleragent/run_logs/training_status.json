@@ -1,0 +1,30 @@
+{
+    "Roller": {
+        "checkpoints": [
+            {
+                "steps": 499993,
+                "file_path": "results\\Rolleragent\\Roller\\Roller-499993.onnx",
+                "reward": 1.0,
+                "creation_time": 1609908256.2118342
+            },
+            {
+                "steps": 500041,
+                "file_path": "results\\Rolleragent\\Roller\\Roller-500041.onnx",
+                "reward": 1.0,
+                "creation_time": 1609908256.2873907
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500041,
+            "file_path": "results\\Rolleragent\\Roller.onnx",
+            "reward": 1.0,
+            "creation_time": 1609908256.2873907
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}
